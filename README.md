@@ -1,2 +1,17 @@
-# COMP105
-Module COMP105 Programming Language Paradigms - University of Liverpool
+<p align="center">
+  <a href="https://www.liverpool.ac.uk/" target="blank">
+    <img src="Liverpool_logo.png" alt="Logo" width="156" height="156">
+  </a>
+ <h1 align="center" style="font-weight: 600">COMP105	Programming Language Paradigms</h1>
+ <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please stars this, thank you very much!</h3>
+ 
+ ## Must See Before Read My code
+* Operating System: Win10
+* Programming Language: Haskell
+* IDE: No IDE
+* All codes are related to labs and assignments and all codes were uploaded after the assignment deadline, all personal information is taken from the University's public website.
+
+ ## Module Specification
+* Year: Session 2021-22
+* Semester: First Semester
+* Lectuer: Dr JS Fearnley  John.Fearnley@liverpool.ac.uk (One of my favorite lecturers)
