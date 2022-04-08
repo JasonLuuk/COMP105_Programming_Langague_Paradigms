@@ -15,3 +15,10 @@
 * Year: Session 2021-22
 * Semester: First Semester
 * Lectuer: Dr JS Fearnley  John.Fearnley@liverpool.ac.uk (One of my favorite lecturers)
+* 
+ ## Module Results
+* Assignment 1: 100
+* Assignment 2: 86
+* Assignment 3: 100
+* Assignment 4: 72
+* Module Mark : 90
