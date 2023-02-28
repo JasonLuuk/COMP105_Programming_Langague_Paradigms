@@ -11,11 +11,13 @@
 * IDE: No IDE
 * All codes are related to labs and assignments and all codes were uploaded after the assignment deadline, all personal information is taken from the University's public website.
 
+⚠️Please adhere to the University's Academic Integrity Policy and I accept no responsibility for suspected academic misconduct of any kind.⚠️
+
  ## Module Specification
 * Year: Session 2021-22
 * Semester: First Semester
-* Lectuer: Dr JS Fearnley  John.Fearnley@liverpool.ac.uk (One of my favorite lecturers)
-* 
+* Lectuer: Dr JS Fearnley  (One of my favorite lecturers)
+
  ## Module Results
 * Assignment 1: 100
 * Assignment 2: 86
